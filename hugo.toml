@@ -1,0 +1,39 @@
+baseURL = "https://example.com"
+title = "0xtherealbatman"
+theme = "etch"
+languageCode = "en-US"
+enableInlineShortcodes = true
+pygmentsCodeFences = true
+pygmentsUseClasses = true
+license = "WTFPL"
+licenselink = "http://www.wtfpl.net/about/"
+
+[params]
+  description = "Notes from a curious mind. Nothing here is final, but all of it is honest."
+  dark = "auto"
+  highlight = true
+
+[menu]
+  [[menu.main]]
+    identifier = "posts"
+    name = "posts"
+    title = "posts"
+    url = "/"
+    weight = 10
+
+  [[menu.main]]
+    identifier = "about"
+    name = "about"
+    title = "about"
+    url = "/about/"
+    weight = 20
+
+[permalinks]
+  posts = "/:title/"
+
+[markup.goldmark.renderer]
+  # Allows HTML in Markdown
+  unsafe = true
+  
+  [markup.tableOfContents]
+    ordered = true
