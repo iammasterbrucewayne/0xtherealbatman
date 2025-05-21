@@ -58,15 +58,6 @@ It produces better code, exposes vulnerabilities early, and empowers users to *
 
 [Open source is more secure](https://www.youtube.com/shorts/hWy3SxYiwrA), more stable, more transparent. You can audit the code, run it yourself, and **actually control the tools you depend on**.
 
-Here's Zuck saying it himself:
-
-<iframe width="315" height="560"
-src="https://www.youtube.com/embed/shorts/hWy3SxYiwrA"
-title="YouTube video player"
-frameborder="0"
-allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-allowfullscreen></iframe>
-
 But does it actually work at scale? Short answer is **YES.**
 
 - **Linux** now powers 100% of the top 500 supercomputers, **90% of cloud infrastructure**, and **most of the internet**. Windows, by contrast, is largely confined to consumer desktops.
