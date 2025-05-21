@@ -6,20 +6,20 @@
     <description>Recent content in Posts on 0xtherealbatman</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Wed, 21 May 2025 14:09:41 +0530</lastBuildDate>
+    <lastBuildDate>Wed, 21 May 2025 16:53:53 +0530</lastBuildDate>
     
 	<atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
     
     
     
     <item>
-      <title>My First Post</title>
-      <link>http://localhost:1313/my-first-post/</link>
-      <pubDate>Wed, 21 May 2025 14:09:41 +0530</pubDate>
+      <title>Why Web3</title>
+      <link>http://localhost:1313/why-web3/</link>
+      <pubDate>Wed, 21 May 2025 16:53:53 +0530</pubDate>
       
-      <guid>http://localhost:1313/my-first-post/</guid>
-      <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
-&lt;p&gt;This is &lt;strong&gt;bold&lt;/strong&gt; text, and this is &lt;em&gt;emphasized&lt;/em&gt; text.&lt;/p&gt;
+      <guid>http://localhost:1313/why-web3/</guid>
+      <description>&lt;h1 id=&#34;asd&#34;&gt;asd&lt;/h1&gt;
+&lt;p&gt;asdgasdg&lt;/p&gt;
 </description>
     </item>
     

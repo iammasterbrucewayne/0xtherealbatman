@@ -2,4 +2,4 @@
 title = 'Home'
 +++
 
-some info about me
+Notes from a curious mind. Nothing here is final, but all of it is honest.
