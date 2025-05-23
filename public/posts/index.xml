@@ -6,24 +6,258 @@
     <description>Recent content in Posts on 0xtherealbatman</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Wed, 21 May 2025 16:53:53 +0530</lastBuildDate>
+    <lastBuildDate>Fri, 23 May 2025 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
     
     
     
     <item>
-      <title>Why Web3</title>
-      <link>http://localhost:1313/why-web3/</link>
-      <pubDate>Wed, 21 May 2025 16:53:53 +0530</pubDate>
+      <title>When everything is a subscription, what do you own?</title>
+      <link>http://localhost:1313/nothing-owned/</link>
+      <pubDate>Fri, 23 May 2025 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/why-web3/</guid>
-      <description>&lt;h1 id=&#34;asd&#34;&gt;asd&lt;/h1&gt;
-&lt;p&gt;asdgasdg&lt;/p&gt;
+      <guid>http://localhost:1313/nothing-owned/</guid>
+      <description>&lt;p&gt;&lt;em&gt;&lt;strong&gt;NOTE:&lt;/strong&gt; This article is partly a rant, partly a call to the individual for action.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;The other day, I got a bill from both &lt;strong&gt;Apple (iCloud+)&lt;/strong&gt; and &lt;strong&gt;Google Cloud&lt;/strong&gt;. It wasn’t anything exorbitant but made me ask &amp;ldquo;How much am I actually paying in digital subscriptions every month?&amp;rdquo;.&lt;/p&gt;
+&lt;p&gt;When I looked, the number surprised me:
+I was spending around &lt;strong&gt;$196/month&lt;/strong&gt; — and that’s not including tools I’ve probably forgotten about.&lt;/p&gt;
+&lt;p&gt;A big chunk of this is due to an &lt;strong&gt;EC2 instance on AWS&lt;/strong&gt; that I use for compute. But even without that, I’m still paying &lt;strong&gt;$103/month&lt;/strong&gt;, or &lt;strong&gt;$1,236/year&lt;/strong&gt;, just on digital services.&lt;/p&gt;
+&lt;p&gt;To put that in perspective, that’s &lt;strong&gt;half the median annual income in Thailand&lt;/strong&gt;, &lt;strong&gt;a quarter in India&lt;/strong&gt;, and &lt;strong&gt;about 15% in Vietnam&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;$1,200+&lt;/strong&gt; to access to opaque, rent-seeking tools and services that I often don’t have the permission to control or even verify/audit. Ironically, they somehow have every permission to surveil me in the name of verification and even harvest my data to sell without even compensating me for it.&lt;/p&gt;
+&lt;h3 id=&#34;the-core-frustration&#34;&gt;The Core Frustration&lt;/h3&gt;
+&lt;p&gt;If there&amp;rsquo;s one thing you should know about me, it is that I hate subjugation and deeply value freedom and ownership. Therefore, I &lt;strong&gt;hate renting proprietary software&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;If I’ve already paid for something, I don’t want to be &lt;strong&gt;locked out&lt;/strong&gt; of it with monthly fees, forced upgrades, or cloud dependency.&lt;/p&gt;
+&lt;p&gt;To be clear, I’m &lt;strong&gt;not&lt;/strong&gt; against paying for what I use.&lt;/p&gt;
+&lt;p&gt;For example, compute, storage, bandwidth — these have real costs. But a lot of what we’re paying for today is no longer value creation or exchange, it’s straight up extortion. Or more mildly, value extraction.&lt;/p&gt;
+&lt;p&gt;Allow me to illustrate with some examples:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.ftc.gov/news-events/news/press-releases/2024/06/ftc-takes-action-against-adobe-executives-hiding-fees-preventing-consumers-easily-cancelling&#34;&gt;&lt;strong&gt;FTC&amp;rsquo;s action against Adobe&lt;/strong&gt;&lt;/a&gt;. Evidently, Adobe thinks innovation in business means charging consumers for &lt;strong&gt;not&lt;/strong&gt; using their products. Ngl, innovative for sure.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;X/Twitter Premium.&lt;/strong&gt; Thanks to Musk, anyone can buy verification for a monthly fee (around $8), regardless of credibility or identity.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Algorithmic reach is heavily throttled for non-paying users&lt;/strong&gt;. Tweets from non-blue users are de-prioritized or hidden in replies.&lt;/p&gt;
+&lt;p&gt;Therefore, you must now pay simply to be seen.&lt;/p&gt;
+&lt;p&gt;Basic functionality like two-factor authentication via SMS was removed for free users — a security feature now locked behind a paywall.&lt;/p&gt;
+&lt;p&gt;Meanwhile, the advertising model remains, meaning Twitter is now trying to extract value from both ends: users pay to speak, and advertisers pay to mine them.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;What does this incentivize?&lt;/strong&gt; Musk has effectively:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Undermined trust&lt;/strong&gt; by turning credibility into a purchase&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Introduced pay-to-play dynamics&lt;/strong&gt; where paying users dominate discourse (hence, scams as a business work very well with ads)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Degraded the baseline product&lt;/strong&gt; for non-payers to make subscriptions look necessary&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Sony&amp;rsquo;s PS+ Subscription&lt;/strong&gt;. Let&amp;rsquo;s start with the fact that Sony takes a 30% cut of any purchase made through their Playstation store.&lt;/p&gt;
+&lt;p&gt;So, to them it is not enough that you&amp;rsquo;re paying to buy their console, then paying them a 30% tax for purchasing a game to play on that console.&lt;/p&gt;
+&lt;p&gt;Hence, they decided to add a PS+ subscription charge for online play, so that they can make sure that even after you’ve paid for the console, the game, and your internet connection — you still can&amp;rsquo;t enjoy your game without paying them recurring rent just for existing.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;The pattern is clear and this is the norm now — corpos are turning into digital landlords.&lt;/p&gt;
+&lt;p&gt;We&amp;rsquo;ve entered an era where the companies which used to be innovative and consumer focused have turned into giant rent-seeking, opaque oligopolies conducting unfair trade practices.&lt;/p&gt;
+&lt;h3 id=&#34;but-how-are-they-getting-away-with-this-anyway&#34;&gt;But how are they getting away with this anyway?&lt;/h3&gt;
+&lt;p&gt;To quote the Scottish dude who was into economics:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;em&gt;&amp;ldquo;It is the maxim of every prudent master of a family, never to attempt to make at home what it will cost him more to make than to buy.&amp;rdquo;&lt;/em&gt; — Adam Smith&lt;/p&gt;&lt;/blockquote&gt;
+&lt;p&gt;So, if things are the way they are for the reason that is &amp;ldquo;economics&amp;rdquo;, wtf is this article for anyway?&lt;/p&gt;
+&lt;p&gt;Well, because economics also enables competition. And I believe we&amp;rsquo;re entering the golden era of &lt;a href=&#34;https://en.wikipedia.org/wiki/Enshittification&#34;&gt;enshittification&lt;/a&gt; of tech.&lt;/p&gt;
+&lt;p&gt;And as one of our billionaire overlords put it:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&amp;ldquo;Your margin is my opportunity&amp;rdquo; — Jeff Bezos&lt;/p&gt;&lt;/blockquote&gt;
+&lt;h3 id=&#34;so-what-can-we-do-about-it&#34;&gt;So, what can we do about it?&lt;/h3&gt;
+&lt;p&gt;Well, there&amp;rsquo;s two parts to that. As an individual you can make a change both on a personal level and on a societal level (by building better products and services). Here&amp;rsquo;s how:&lt;/p&gt;
+&lt;h4 id=&#34;1-personal-shift-opt-out&#34;&gt;1. Personal Shift: Opt Out&lt;/h4&gt;
+&lt;p&gt;Start with a personal experiment in digital sovereignty.&lt;/p&gt;
+&lt;p&gt;You don&amp;rsquo;t have to rage-quit the internet, but be more intentional in the way you&amp;rsquo;re using some of these technologies.&lt;/p&gt;
+&lt;p&gt;Try to be more conscious about the tools you use, and where you place trust. For me, it means:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Auditing&lt;/strong&gt; the tools we depend on.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Replacing rent-seeking black boxes with open-source&lt;/strong&gt;, local-first, or p2p alternatives when possible (you&amp;rsquo;d be surprised what you can find, if you just looked).&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Supporting creators who respect user agency and transparency.&lt;/strong&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Contributing to open source&lt;/strong&gt; — this doesn&amp;rsquo;t mean you have to write code. Reporting issues on GitHub, donating funds to an open source project you&amp;rsquo;re actively using or even just advocating for others to make this shift helps move things forward in the right direction.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;With that said, most people are lazy enough not to do any of that. And, that&amp;rsquo;s where your opportunity lies. So, let&amp;rsquo;s move to the next part.&lt;/p&gt;
+&lt;h4 id=&#34;2-business-opportunity-appetite-for-disruption&#34;&gt;2. Business Opportunity: Appetite for Disruption&lt;/h4&gt;
+&lt;br /&gt;
+&lt;img src=&#34;https://ccecosystems.news/wp-content/uploads/2022/09/disruptive-innovation-2-1.png&#34; /&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;em&gt;Disruptive Innovation describes a process by which a product or service takes root in simple applications at the bottom of the market—typically by being less expensive and more accessible—and then relentlessly moves upmarket, eventually displacing established competitors.&lt;/em&gt; — &lt;a href=&#34;https://www.christenseninstitute.org/theory/disruptive-innovation/&#34;&gt;Source&lt;/a&gt;&lt;/p&gt;&lt;/blockquote&gt;
+&lt;p&gt;This is the hard, unsolved part. But that&amp;rsquo;s why this is also the juicy, exciting part.&lt;/p&gt;
+&lt;p&gt;I believe that certain parts of the big tech industry are ripe for disruption now. The principle is to offer affordable solutions to overlooked market segments.&lt;/p&gt;
+&lt;p&gt;The thing that big tech fears and refuses to touch — forks, interoperability, composability, user control — is the exact thing that makes open source so powerful. It invites participation. It turns users into contributors. It fosters meritocratic ecosystems where the best ideas rise because they’re open to evolution.&lt;/p&gt;
+&lt;p&gt;Take Linux for example. It started out from a similar frustration Linus Torvalds had against UNIX — it was proprietary and expensive.&lt;/p&gt;
+&lt;p&gt;The best available alternative at the time was &lt;strong&gt;Minix&lt;/strong&gt;, a small teaching-oriented Unix clone developed by Andrew Tanenbaum — but it had limitations and wasn’t truly open for modification.&lt;/p&gt;
+&lt;p&gt;So Linus started building his own kernel.&lt;/p&gt;
+&lt;p&gt;He posted this on the comp.os.minix newsgroup on &lt;strong&gt;August 25, 1991&lt;/strong&gt;:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;“Hello everybody out there using minix –&lt;/p&gt;
+&lt;p&gt;I’m doing a (free) operating system (just a hobby, won’t be big and professional like gnu) for 386(486) AT clones…”&lt;/p&gt;&lt;/blockquote&gt;
+&lt;p&gt;That hobby kernel would later become &lt;strong&gt;Linux&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;It started by serving an overlooked group: Power users and students who wanted a free, modifiable UNIX-like OS.&lt;/p&gt;
+&lt;p&gt;Overtime, it grew to power most of the internet (servers, containers, routers), android phones, supercomputers, NAS boxes,	embedded systems, developer laptops.&lt;/p&gt;
+&lt;p&gt;More recently even &lt;a href=&#34;https://www.youtube.com/watch?v=pVI_smLgTY0&#34;&gt;PewDiePie switched to Linux&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Will it become the norm for consumer desktops? I don&amp;rsquo;t know, but clearly in many significant markets Linux has already won.&lt;/p&gt;
+&lt;p&gt;Today, there&amp;rsquo;s a small market segment of power users like myself who are tired of being farmed. They don’t want dark patterns, forced subscriptions, or “cloud lock-in” disguised as convenience.&lt;/p&gt;
+&lt;p&gt;They want products that work, that can not just be trusted, but verified, that don’t spy on them in the name verification and security, and that can be extended, upgraded or run locally if needed.&lt;/p&gt;
+&lt;p&gt;These individuals have two key characteristics which make for a very loyal and valuable customer base:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Disposable income&lt;/li&gt;
+&lt;li&gt;Deep seated issues with authority&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;This is where I feel open-source codebases, user-upgradable hardware and technologies like blockchain can shine.&lt;/p&gt;
+&lt;p&gt;By realizing that:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;There&amp;rsquo;s a (relatively) small, underserved market of open-source advocates and privacy loving enthusiasts who really value ownership.&lt;/li&gt;
+&lt;li&gt;The true frustrations of these users include forced recurring costs (no path to ownership), loss of control, closed ecosystems and lock-in, artificial friction and apathy from incumbents&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id=&#34;how-to-build-a-business-using-these-realizations&#34;&gt;How to build a business using these realizations?&lt;/h3&gt;
+&lt;p&gt;When you understand these root frustrations of this underserved user base and the structural rot in big tech’s incentives — a roadmap for building becomes clear.&lt;/p&gt;
+&lt;p&gt;You&amp;rsquo;re building for people who are willing to pay for autonomy. This market is almost actively &lt;strong&gt;repelled&lt;/strong&gt; by the direction mainstream software has taken.&lt;/p&gt;
+&lt;p&gt;In such environments, the right product doesn’t need scale to thrive because the loyalty is so strong. It simply needs to align with the values:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;One-off payment structure, with optional future add-ons/upgrades&lt;/li&gt;
+&lt;li&gt;Incentive alignment for both open-source contributors as well as the users&lt;/li&gt;
+&lt;li&gt;Self-hosting licenses&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;If the opportunity is so obvious, how come someone hasn&amp;rsquo;t built this?&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Well, that&amp;rsquo;s because of the hard part: &lt;strong&gt;Network effects.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Unfortunately, there&amp;rsquo;s no such thing as a free lunch — if you wish to capitalize on these potentially huge opportunities, you will need to find a wedge that breaks the existing network effects patterns. If I had a clear insight on even one of these wedges, I would probably not be writing this article to begin with.&lt;/p&gt;
+&lt;p&gt;So far, there have been several attempts at solving these problems — especially in the web3 space — but none have figured out quite the right formula yet.&lt;/p&gt;
+&lt;p&gt;Most have been too consumed by redundant/scammy tokens launches, delusional idealism and straight up horrendous user experiences.&lt;/p&gt;
+&lt;p&gt;But that&amp;rsquo;s where lies your opportunity.&lt;/p&gt;
+&lt;p&gt;Using the resources and technologies like AI, blockchain and other buzzwords we have today, it is &lt;em&gt;possible&lt;/em&gt; to build better systems. And whoever figures out &lt;em&gt;how&lt;/em&gt; will make generational wealth doing so.&lt;/p&gt;
+&lt;p&gt;I intend to cover some industries that I think are ripe for disruption in a future article and outline the key problems I&amp;rsquo;ve noticed (but no promises).&lt;/p&gt;
+&lt;h3 id=&#34;in-closing&#34;&gt;In Closing&lt;/h3&gt;
+&lt;p&gt;We don’t need more hype. We need better defaults.&lt;/p&gt;
+&lt;p&gt;This isn’t about replacing every tool with an open-source clone or living in the woods syncing our to-do lists over LAN. It’s about asking better questions:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Do I really own the tools I depend on?&lt;/li&gt;
+&lt;li&gt;Am I comfortable with how my data is handled?&lt;/li&gt;
+&lt;li&gt;Do I feel respected by the platforms I support?&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;And if not — can we build something better?&lt;/p&gt;
+&lt;p&gt;The answer is yes. But it won’t come from billion-dollar incumbents or Web3 grifters trying to slap a token on everything. It’ll come from users turned builders — who got frustrated enough to do something about it.&lt;/p&gt;
+&lt;p&gt;So if you’re a user: start opting out where you can.&lt;/p&gt;
+&lt;p&gt;If you’re a builder: look for the cracks. If you haven&amp;rsquo;t found one yet, keep looking.&lt;/p&gt;
+&lt;p&gt;And if you’re tired of being farmed: you’re not alone.&lt;/p&gt;
+&lt;p&gt;We’re not early anymore. The time is now.&lt;/p&gt;
 </description>
     </item>
     
     
+    
+    
+    
+    <item>
+      <title>Why are we even doing this? — The Web3 Raison D&#39;être</title>
+      <link>http://localhost:1313/why-web3/</link>
+      <pubDate>Wed, 21 May 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/why-web3/</guid>
+      <description>&lt;p&gt;Because the internet wasn’t supposed to turn into this.&lt;/p&gt;
+&lt;p&gt;We’ve somehow gone from an open, creative, peer-to-peer network to a landscape dominated by closed platforms that decide what you see, what you can build, and even what you can own.&lt;/p&gt;
+&lt;p&gt;You can’t view a public Instagram post without logging in and sharing your personal data. Facebook walls off public content just to squeeze more leverage in business negotiations.&lt;/p&gt;
+&lt;p&gt;These platforms &lt;strong&gt;actively kill interoperability,&lt;/strong&gt; undermine open standards, and make sure nothing escapes their ecosystem unless they profit from it. Sure, some of it is network effects, but a huge part is simply strategy.&lt;/p&gt;
+&lt;p&gt;Meanwhile, the user experience is getting worse.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;You search something on Google and get five ads before a real result.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;You go to watch a 30-second clip on YouTube and get slammed with five minutes of unskippable ads.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Twitter shows you ads with crypto scams or OnlyFans girls you never asked for. Even useful content is buried under monetization garbage.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Closed platforms prioritize shareholder value over user experience. They rent you access to content, limit how you use it, and have the power to deplatform creators or communities overnight.&lt;/p&gt;
+&lt;p&gt;They don’t let you truly own anything.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Amazon has &lt;a href=&#34;https://phys.org/news/2009-10-amazon-deleted-orwell.html&#34;&gt;remotely deleted books from Kindles&lt;/a&gt;.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;AWS has &lt;a href=&#34;https://www.theguardian.com/media/2010/dec/01/wikileaks-website-cables-servers-amazon&#34;&gt;shut down services for political reasons&lt;/a&gt;. And yet developers everywhere are building the next internet on top of it.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.forbes.com/sites/jenaebarnes/2023/02/03/twitter-ends-its-free-api-heres-who-will-be-affected/&#34;&gt;Twitter ended its free API&lt;/a&gt; after Elon took over.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.cultofmac.com/news/iphone-sideloading-eu-dma&#34;&gt;Apple won’t let you sideload apps&lt;/a&gt; or modify your device.&lt;/p&gt;
+&lt;p&gt;The irony? Steve Jobs and Wozniak famously built a &lt;strong&gt;blue box&lt;/strong&gt; that let them hack phone lines — and now Apple does everything it can to &lt;strong&gt;prevent users from tinkering&lt;/strong&gt; with the devices they own.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.wsj.com/business/media/netflix-begins-charging-u-s-users-for-password-sharing-4bb7023e&#34;&gt;Netflix began enforcing stricter limits on account sharing&lt;/a&gt;, requiring users to &lt;strong&gt;verify devices&lt;/strong&gt; on their “home network” and &lt;strong&gt;pay extra fees&lt;/strong&gt; for anyone watching outside that location.&lt;/p&gt;
+&lt;p&gt;It also began limiting &lt;strong&gt;how many devices can stream or download&lt;/strong&gt;, even if you’re the one paying. You &lt;strong&gt;pay for content&lt;/strong&gt;, but you don’t own it. Netflix can change the terms anytime, restrict who you can watch with, where, and how — and if you break the rules, you lose access.&lt;/p&gt;
+&lt;p&gt;You can &lt;strong&gt;own a DVD&lt;/strong&gt; and lend it to 10 people — but in the digital world, you pay a subscription and still get treated like a liability.&lt;/p&gt;
+&lt;p&gt;Make no mistake — yes, Netflix owns (or licenses) the IP rights, so naturally you expect to pay to access the content.&lt;/p&gt;
+&lt;p&gt;But here’s the strange part:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;You&lt;/strong&gt; pay for those rights through your subscription.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;They&lt;/strong&gt; collect recurring revenue&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;You&lt;/strong&gt; get no ownership, no control, and not even a share in the value you’re helping sustain.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;You’re funding the entire system — but you don’t own any part of it. You’re just renting access, and even that comes with restrictions.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Even though these platforms offer immense value — no denying that — their &lt;strong&gt;incentives are fundamentally misaligned&lt;/strong&gt; with yours. And that misalignment is slowly turning the internet into a darker, more exploitative place. And given how much of our lives now depend on the internet, it’s making the &lt;strong&gt;world&lt;/strong&gt; worse too.&lt;/p&gt;
+&lt;p&gt;That’s why I believe in open source. Because open source wins on merit.&lt;/p&gt;
+&lt;p&gt;It produces better code, exposes vulnerabilities early, and empowers users to &lt;strong&gt;fix what doesn’t serve them&lt;/strong&gt; instead of waiting for a megacorp’s product roadmap.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/shorts/hWy3SxYiwrA&#34;&gt;Open source is more secure&lt;/a&gt;, more stable, more transparent. You can audit the code, run it yourself, and &lt;strong&gt;actually control the tools you depend on&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;But does it actually work at scale? Short answer is &lt;strong&gt;YES.&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Linux&lt;/strong&gt; now powers 100% of the top 500 supercomputers, &lt;strong&gt;90% of cloud infrastructure&lt;/strong&gt;, and &lt;strong&gt;most of the internet&lt;/strong&gt;. Windows, by contrast, is largely confined to consumer desktops.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Android, based on Linux, dominates global mobile usage.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Git, Docker, Kubernetes, PostgreSQL — the best dev tools are all open source.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Open source web servers like Nginx and Apache still power huge portions of the web.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;We’re building Web3 because we want a better foundation.&lt;/p&gt;
+&lt;p&gt;Web3 is a &lt;strong&gt;vision&lt;/strong&gt; — not a finished product. And yes, right now it&amp;rsquo;s full of problems. Some of the same actors it sought freedom from have found ways to exploit it. Greed still exists. Power still concentrates. Economic incentives are hard to get right.&lt;/p&gt;
+&lt;p&gt;But that doesn’t mean we give up.&lt;/p&gt;
+&lt;p&gt;This is a technology born out of necessity. And &lt;strong&gt;despite the speculation and noise&lt;/strong&gt;, we can still build and deploy apps freely. That’s a huge deal.&lt;/p&gt;
+&lt;p&gt;We can still build a better internet.&lt;/p&gt;
+&lt;p&gt;The economics aren’t solved. Governance is messy. But the foundational properties — censorship resistance, permissionless access, verifiability — still hold.&lt;/p&gt;
+&lt;p&gt;We don’t solve hard problems by giving up. We solve them by building.&lt;/p&gt;
+&lt;p&gt;So, instead of being midwits who beg institutions to buy our bags, maybe it’s time we return to the grassroots — and remember why we’re here in the first place.&lt;/p&gt;
+&lt;p&gt;We want open protocols. Transparent rules. Systems where code is forkable, state is portable, and ownership actually means something.&lt;/p&gt;
+&lt;p&gt;We want:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;A web where you &lt;strong&gt;own&lt;/strong&gt; what you paid for — not rent it with terms that change without notice&lt;/li&gt;
+&lt;li&gt;A space where &lt;strong&gt;anonymous users can still be trusted&lt;/strong&gt; — because &lt;a href=&#34;https://en.wikipedia.org/wiki/Zero-knowledge_proof&#34;&gt;verification doesn’t require surveillance&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Infrastructure where &lt;strong&gt;you can build freely&lt;/strong&gt;, without the fear of AWS shutting you down, or app stores taking a 30% cut just to exist&lt;/li&gt;
+&lt;li&gt;A way to &lt;strong&gt;coordinate and share value&lt;/strong&gt; without trusting banks, big tech, or middlemen&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Is Web3 perfect? No. Not even close.&lt;/p&gt;
+&lt;p&gt;But it’s the only technology stack we have today that’s &lt;strong&gt;censorship-resistant by default&lt;/strong&gt;, &lt;strong&gt;open by design&lt;/strong&gt;, and &lt;strong&gt;aligned with a freer, more user-respecting internet&lt;/strong&gt;.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;AWS can’t shut down your &lt;a href=&#34;https://www.investopedia.com/terms/d/decentralized-applications-dapps.asp&#34;&gt;dApp&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://a16zcrypto.com/posts/article/debanking-defi-safety-net/&#34;&gt;Banks can’t freeze your crypto wallet&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;Politicians can’t tamper with &lt;a href=&#34;https://www.youtube.com/watch?v=Iv7b4ZxUzoM&#34;&gt;on-chain voting&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;Elon Musk can’t rewrite the rules of &lt;a href=&#34;https://members.delphidigital.io/projects/farcaster&#34;&gt;Web3 social&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;Facebook can&amp;rsquo;t hold public information hostage, demanding your privacy as ransom.&lt;/li&gt;
+&lt;li&gt;Apple can’t extort your app for a 30% cut just because you dared to build something useful.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Web3 doesn’t solve everything, but it gives us a chance to &lt;strong&gt;build without begging&lt;/strong&gt; and &lt;strong&gt;own without renting&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;That’s why we’re here.&lt;/p&gt;
+</description>
+    </item>
     
     
   </channel>

@@ -12,6 +12,7 @@ licenselink = "http://www.wtfpl.net/about/"
   description = "Notes from a curious mind. Nothing here is final, but all of it is honest."
   dark = "auto"
   highlight = true
+  copyright = "© None. Ideas aren't property. This work is open source. Fork it, steal it, improve it, or ignore it."
 
 [menu]
   [[menu.main]]
