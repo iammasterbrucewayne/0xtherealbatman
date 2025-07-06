@@ -95,7 +95,7 @@ Try to be more conscious about the tools you use, and where you place trust. For
 With that said, most people are lazy enough not to do any of that. And, that's where your opportunity lies. So, let's move to the next part.
 #### 2. Business Opportunity: Appetite for Disruption
 <br />
-<img src="https://ccecosystems.news/wp-content/uploads/2022/09/disruptive-innovation-2-1.png" />
+<img src="https://ccecosystems.news/wp-content/uploads/2022/09/disruptive-innovation-2-1.png" alt="disruptive innovation" />
    
 > *Disruptive Innovation describes a process by which a product or service takes root in simple applications at the bottom of the market—typically by being less expensive and more accessible—and then relentlessly moves upmarket, eventually displacing established competitors.* — [Source](https://www.christenseninstitute.org/theory/disruptive-innovation/)
 
